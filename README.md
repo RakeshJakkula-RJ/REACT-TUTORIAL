@@ -42,4 +42,15 @@
    7.useRouteError
    8.useLoaderData
 
+   ## Deployment :
+      * 1.Netlify website
+      * 2.Envirointment Variables
+        * .env file
+      * 3.deploying the project in "Netlify website"
+      * Netlify : Netlify is a web-hosting platform or website, where we can deploy and manage
+                  websites and applications(projects)
+      * Netlify Features : 1. Continuous Deployment
+                           2. Integration with Git 
+                           3. Security
+
    
