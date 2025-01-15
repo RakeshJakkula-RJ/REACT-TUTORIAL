@@ -4,7 +4,7 @@ import { useGlobalContext } from "../Context/Context";
 import { useQuery } from "@tanstack/react-query";
 
 
- const url = `https://api.unsplash.com/search/photos/?client_id=${import.meta.env.VITE_API_KEY}`;
+   const url = `https://api.unsplash.com/search/photos/?client_id=8Zp35TWQTiI1tHoAGywZGZvDOScit68j2BK6ZJ5GtSg`;
 
    console.log(import.meta.env.VITE_API_KEY);
 
